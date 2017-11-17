@@ -1,0 +1,23 @@
+{
+  "name": "-liri-node-app",
+  "version": "1.0.0",
+  "description": "liribot",
+  "main": "liri.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pez-75/-liri-node-app.git"
+  },
+  "author": "Rick Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pez-75/-liri-node-app/issues"
+  },
+  "homepage": "https://github.com/pez-75/-liri-node-app#readme"
+}
